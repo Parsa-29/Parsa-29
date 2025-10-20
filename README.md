@@ -14,7 +14,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <div style="display: flex">
-<img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,electron,redux,nodejs,discordjs,express,html,css,sass,bootstrap,emotion,vite,webpack,mysql,postgres,mongodb,firebase,redis,docker,linux,nginx,nestjs,npm,yarn,figma,postman,php,laravel,git,github,gradle,androidstudio,java"/>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,electron,redux,nodejs,express,html,css,sass,bootstrap,emotion,vite,webpack,mysql,postgres,mongodb,firebase,redis,docker,linux,nginx,nestjs,npm,yarn,figma,postman,php,laravel,git,github,gradle,androidstudio,java"/>
  </div>
 </details>
 
