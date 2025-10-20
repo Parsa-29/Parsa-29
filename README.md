@@ -5,8 +5,11 @@
    <a href="https://www.linkedin.com/in/khvicha-parsadanashvili/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-- 👋 Hi, I’m Khvicha
+  
+<p>
+  - 👋 Hi, I’m Khvicha
 - 💼 I'm a Software developer & SEO at OutPlay
+</p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <div style="display: flex">
